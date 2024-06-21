@@ -1,0 +1,16 @@
+@import "normalize.css";
+@import "@blueprintjs/core/lib/css/blueprint.css";
+@import "@blueprintjs/icons/lib/css/blueprint-icons.css";
+
+body {
+  margin-top: 3rem;
+  background-color: #f6f7f9;
+}
+.container {
+  max-width: 600px;
+  padding: 1.75rem;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border: 1px solid #d3d8de;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
