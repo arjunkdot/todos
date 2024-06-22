@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "60ff4c39-c816-4ea2-8fea-1ec1ce5774d5",
+      "text": "Go grocery shopping",
+      "date": "2024-06-22",
+      "completed": true
+    },
+    {
+      "id": "8af87210-97bc-4e89-9adc-d8f6d47fe4cd",
+      "text": "Refactor code",
+      "date": "2024-06-22",
+      "completed": false
+    },
+    {
+      "id": "7d2e177a-3139-47dd-bae2-682094c83d23",
+      "text": "Pick up Jessie",
+      "date": "2024-06-22",
+      "completed": false
+    }
+  ]
+}

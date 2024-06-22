@@ -8,9 +8,25 @@ body {
 }
 .container {
   max-width: 600px;
-  padding: 1.75rem;
   margin: 0 auto;
+}
+.panel {
   background-color: #ffffff;
   border: 1px solid #d3d8de;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+  padding: 1.75rem;
+}
+.footer {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .footer {
+    margin-top: 1.5rem;
+  }
 }
